@@ -1,2 +1,2 @@
 # Discord.js
-Create your own discord bot!
+Just open the HTML code and follow the instructions !
